@@ -17,8 +17,8 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing new project&nbsp;
-            <code className={styles.code}>src/pages/index.js</code>
+            Get started by editing new project &nbsp;
+            <code className={styles.code}>Waqas pervaiz </code>
           </p>
           <div>
             <a
